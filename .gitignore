@@ -1,0 +1,14 @@
+HELP.md
+/target/
+!.idea
+!.mvn/wrapper/mavem-wrapper.jar
+
+settings.xml
+
+.classpath
+.project
+.settings
+
+.idea
+.iml
+.iws
